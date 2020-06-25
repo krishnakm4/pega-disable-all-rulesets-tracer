@@ -39,7 +39,6 @@ if (document.title.indexOf("Tracer") != -1) {
 				}	catch (e){
 					ruleSetList[i].cells[0].firstChild.checked = false;
 				}
-				location.reload();
 
 	    		};
 //This is for unselecting the checkboxes having the name starts with Pega		
